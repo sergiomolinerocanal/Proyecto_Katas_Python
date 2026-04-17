@@ -30,6 +30,22 @@ Para ejecutarlo solo necesitas tener instalado PYTHON
 4. CONCLUSIONES
 
 Estas son algunas de la katas más interesantes:
+<img width="1144" height="304" alt="Ejemplo_calificaciones" src="https://github.com/user-attachments/assets/4d805386-e933-4183-a68d-f7545b1ad681" />
+
+--
+
+<img width="422" height="245" alt="Ejemplo_anagrama" src="https://github.com/user-attachments/assets/e4b39db3-d7ba-493d-ab5b-9492179b02ce" />
+
+--
+
+<img width="627" height="836" alt="Ejemplo_banco_0" src="https://github.com/user-attachments/assets/8aedb9ab-1802-4012-8234-14b0fe9ce3f6" />
+
+--
+
+<img width="1211" height="447" alt="Ejemplo_banco_1" src="https://github.com/user-attachments/assets/f2d28820-5421-4621-911b-8a20a684d771" />
+
+
+
 
 6.	AUTOR
 
